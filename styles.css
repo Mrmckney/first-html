@@ -1,7 +1,7 @@
 :root {
     --blue: #1e90ff;
     --white: #f6f6f6;
-
+    --base-font-size: 19px;
 }
 
 body {
